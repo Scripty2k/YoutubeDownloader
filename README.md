@@ -54,3 +54,7 @@ A simple Python script to download YouTube videos or audio in MP4, MP3, or WAV f
 - 2. Enter a youtube link you want to download
 - 3. Type 1, 2 or 3 to choose between different formats
 - 4. Done downloading? Check the downloads folder!
+
+## License
+
+MIT License
